@@ -28,18 +28,18 @@ VkProductsAPP
 - Реализована кнопка «назад», которая ведет на выдачу. Позиция при этом сохраняется.
 
 Использованные компоненты:
-Язык: kotlin
-Работа с сетью: Retrofit, OkHttp
-Многопоточность: Kotlin Coroutines/Flow
-View: XML
-Сериализаторы: Kotlinx Serialization, Gson
-Навигация: Activity, Fragment, Jetpack Navigation
-Архитектура: MVI
-Изображение: Glide
+      Язык: kotlin
+      Работа с сетью: Retrofit, OkHttp
+      Многопоточность: Kotlin Coroutines/Flow
+      View: XML
+      Сериализаторы: Kotlinx Serialization, Gson
+      Навигация: Activity, Fragment, Jetpack Navigation
+      Архитектура: MVI
+      Изображение: Glide
 
 Также использованы:
-Dagger
-Clean Architecture
+      Dagger
+      Clean Architecture
 
 Приложение поддерживает перевороты
 
