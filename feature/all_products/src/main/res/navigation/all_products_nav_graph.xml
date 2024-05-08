@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/feature_all_products_nav_graph"
+    app:startDestination="@id/fragment_all_products">
+    <fragment
+        android:id="@+id/fragment_all_products"
+        android:name="dev.ivan_belyaev.all_products_api.presentation.fragment.AllProductsFragment"
+        android:label="all_products"
+        tools:layout="@layout/fragment_all_products" />
+</navigation>
